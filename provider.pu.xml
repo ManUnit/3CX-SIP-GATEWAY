@@ -11,9 +11,9 @@
       <manufacturer></manufacturer>
       <model>provider</model>
       <field name="Name">Bitrix24</field>
-      <field name="RegistrarHost">ip.b24-1887-1590656292.bitrixphone.com</field>
+      <field name="RegistrarHost">ip.b24-1887-xxxxx.bitrixphone.com</field>
       <field name="RegistrarPort">0</field>
-      <field name="ProxyHost">ip.b24-1887-1590656292.bitrixphone.com</field>
+      <field name="ProxyHost">ip.b24-1887-xxxxx.bitrixphone.com</field>
       <field name="ProxyPort">5060</field>
       <field name="SecondaryRegistrar"></field>
       <field name="IPRestriction">ANY</field>
